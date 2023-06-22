@@ -14,9 +14,13 @@ Table of Contents
 We take pride in our diverse portfolio of projects. Each project demonstrates our expertise and commitment to delivering high-quality software solutions. Here are some of our featured projects:
 
 **Project A:** A web-based CRM system developed using Node.js, Express, and MongoDB.
+
 **Project B:** An Android mobile application built with Kotlin for managing tasks and productivity.
+
 **Project C:** A machine learning model implemented in Python for sentiment analysis.
+
 **Project D:** A responsive e-commerce website created with React.js and GraphQL.
+
 Please feel free to explore our project folders to learn more about each individual project. Each project comes with its own README file that provides detailed information about its purpose, features, and installation instructions.
 
 Technologies

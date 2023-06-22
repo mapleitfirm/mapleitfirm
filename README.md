@@ -3,12 +3,14 @@ Overview
 Thank you for visiting our IT firm's GitHub repository! This repository serves as a central hub for our software development projects, code samples, documentation, and other resources. Here, you will find a wide range of projects and technologies that we have been working on.
 
 Table of Contents
-Projects
-Technologies
-Contributing
-License
-Contact
-Projects
+<ul>
+    <li>Projects</li>
+    <li>Technologies</li>
+    <li>Contributing</li>
+    <li>License</li>
+    <li>Contact</li>
+    <li>Projects</li>
+</ul>
 We take pride in our diverse portfolio of projects. Each project demonstrates our expertise and commitment to delivering high-quality software solutions. Here are some of our featured projects:
 
 **Project A:** A web-based CRM system developed using Node.js, Express, and MongoDB.

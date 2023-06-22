@@ -27,10 +27,15 @@ Technologies
 Our IT firm embraces a wide range of cutting-edge technologies and tools to deliver innovative solutions to our clients. Some of the key technologies we work with include:
 
 Front-end: HTML5, CSS3, JavaScript, React.js, Angular
+
 Back-end: Node.js, Python, Java, Ruby, PHP
+
 Databases: MongoDB, MySQL, PostgreSQL, Redis
+
 Mobile: Android (Java/Kotlin), iOS (Swift)
+
 DevOps: Docker, Kubernetes, Jenkins, AWS, Azure
+
 This is just a glimpse of the technologies we specialize in. We are constantly exploring and adopting new technologies to stay at the forefront of the industry.
 
 Contributing
